@@ -3,7 +3,7 @@ using OpenQA.Selenium.Edge;
 
 namespace Lab11_12
 {
-    public class KufarTests
+    public class FixPriceTests
     {
         IWebDriver? driver;
 
